@@ -1,0 +1,30 @@
+.buttons {
+    color: rgb(255, 255, 255);
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    background: rgb(64,199,129);
+    font-size: 50px;
+    text-align: center;
+    
+  } 
+
+  input {
+    border-radius: 30px;
+    border-color: darkgreen;
+    text-transform: uppercase;
+    height: 50px;
+    width: 400px;
+    position:absolute;
+    left:0;
+    right:0;
+    margin:auto;
+    outline:none;
+    text-align: center;
+    font-size: 40px;
+    font-family: Tahoma;
+    color:darkgreen;
+    
+
+  }
